@@ -29,7 +29,7 @@ the jar file can be found in /target/hadoop-0.0.1-SNAPSHOT.jar
 
 running hadoop 
 
-`hdfs jar hadoop-0.0.1-SNAPSHOT.jar <input-file> <outfile>`
+`hdfs jar hadoop-0.0.1-SNAPSHOT.jar hadoop.Redoop <input-file> <outfile>`
 
 
 __Checking out file__   
