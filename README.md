@@ -33,7 +33,7 @@ running hadoop
 
 
 __Checking out file__   
-`hadoop dfs -ls <outfile>`
+`hadoop dfs -ls <outfile>`   
 `hadoop fs -cat <outfile>`
 
 
