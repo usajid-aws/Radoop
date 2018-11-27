@@ -7,7 +7,7 @@ on reposts of images as it was significantly easy to identify reposted images us
 Using the data set, they were able to derive models on how time, social context, and presentation affected
 a post’s performance, ultimately helping them understand when, where, and how a post should be
 presented to maximize its reach.   
-You can read more about their research here: [http://i.stanford.edu/~julian/pdfs/icwsm13.pdf] (http://i.stanford.edu/~julian/pdfs/icwsm13.pdf)   
+You can read more about their research here: http://i.stanford.edu/~julian/pdfs/icwsm13.pdf   
 
 ---
 
