@@ -32,7 +32,7 @@ running hadoop
 `hdfs jar hadoop-0.0.1-SNAPSHOT.jar <input-file> <outfile>`
 
 
-## Checking out file   
+__Checking out file__   
 `hadoop dfs -ls <outfile>`
 `hadoop fs -cat <outfile>`
 
